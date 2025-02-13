@@ -1,7 +1,14 @@
 body{
-    background-color: red;
+    background-color:#cccccc;
 }
 
-.leopardo{
+.titulo{
+    front-size: 40px;
+    color: red;
+}
+
+.leopardo header{
+    width: 20%;
+    border-radius: 10px;
     width: 50%;
 }
